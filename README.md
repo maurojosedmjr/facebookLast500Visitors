@@ -18,3 +18,9 @@ pip install -r requirements.txt
 ```python
 python runner.py
 ```
+
+## Tecnlogias utilizadas
+
+* Mechanize
+* BeautifulSoup
+* Pandas

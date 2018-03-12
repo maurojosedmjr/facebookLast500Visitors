@@ -87,6 +87,12 @@ celerybeat-schedule
 venv/
 ENV/
 
+# files criados
+files/*
+
+# .pyc files
+*.pyc
+
 # Spyder project settings
 .spyderproject
 .spyproject
